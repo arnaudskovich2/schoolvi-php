@@ -2,7 +2,7 @@
 
 <ul>
   <li>Créer un vhost sur votre serveur apache par exemple <i>schoolvi.tg, monsite, home.site, ...</i></li>
-  <li>Dans le vhost, indiquez le dossier dans lequel se trouve les fichiers en local comme dossier du vhost</li>
+  <li>Dans le vhost, indiquez le dossier dans lequel se trouve les fichiers en local comme dossier racine du vhost</li>
   <li>Ajouter le domaine lié au vhost dans le fichier hosts de votre OS</li>
   <li>Redémarrez votre gestionnaire de réseaux et votre serveur apache</li>
   <li>Créer une base de données et modifiez correctement les informations de connection dans /config/db.php</li>
