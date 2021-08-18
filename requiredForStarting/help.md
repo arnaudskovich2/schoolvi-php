@@ -12,5 +12,5 @@
 </ul>
 <br>
 <h3>Important !</h3>
-<p style="color:#206fe3">Pour une meilleure compatibilité, utilisez une version de php >= 7.3.23 et une version de maria-db >= 10.3.16 </p>
+<p>Pour une meilleure compatibilité, utilisez une version de php >= 7.3.23 et une version de maria-db >= 10.3.16 </p>
 <em>Bonne suite de coding à vous</em>
