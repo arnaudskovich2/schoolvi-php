@@ -1,0 +1,56 @@
+body {
+  color: #000000;
+}
+
+.nav-link > i {
+  font-size: 20px;
+}
+
+.welcome-div {
+  width: 100vw;
+  height: 100vh;
+}
+
+.welcome-bg {
+  background: #434a52;
+  background-image: url('../../img/wlc-bg.jpg');
+  background-size: cover;
+}
+
+/*WELCOME PAGE USER FONT*/
+.wc-img {
+  font-size: 80px;
+  color: white;
+}
+
+/*NAV  LINKS FORMATTING*/
+ul.features-list > li > a {
+  text-decoration: none;
+}
+/*PAGE FOOTER*/
+.pf-bg {
+  background-color: #282d32;
+}
+
+.page-footer {
+  color: #f0f9ff;
+}
+
+footer > div > div > div > div > a {
+  font-size: 10rem;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 14px;
+  opacity: 0.3;
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: #f0f9ff;
+}
+
+.footer-link {
+  font-size: 15px;
+  text-decoration: none !important;
+  color: #98b2c4 !important;
+}
