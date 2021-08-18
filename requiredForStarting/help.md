@@ -1,4 +1,4 @@
-#AVANT DE COMMENCER
+<strong><h1>AVANT DE COMMENCER</h1></strong>
 
 <ul>
   <li>Créer un vhost sur votre serveur apache par exemple <i>schoolvi.tg, monsite, home.site, ...</i></li>
